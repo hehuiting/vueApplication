@@ -7,7 +7,7 @@
 ``` bash
 # install dependencies
 npm install
-
+npm i vue-awesome-swiper install vue-router --save
 # serve with hot reload at localhost:8080
 npm run dev
 
